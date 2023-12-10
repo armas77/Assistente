@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assistente.Api.props" />
+</Project>
